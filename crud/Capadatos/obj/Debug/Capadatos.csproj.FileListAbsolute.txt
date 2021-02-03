@@ -1,0 +1,12 @@
+C:\Users\braya\OneDrive\Escritorio\Nueva carpeta\Solution1\Capadatos\bin\Debug\Capadatos.dll
+C:\Users\braya\OneDrive\Escritorio\Nueva carpeta\Solution1\Capadatos\bin\Debug\Capadatos.pdb
+C:\Users\braya\OneDrive\Escritorio\Nueva carpeta\Solution1\Capadatos\obj\Debug\Capadatos.csprojAssemblyReference.cache
+C:\Users\braya\OneDrive\Escritorio\Nueva carpeta\Solution1\Capadatos\obj\Debug\Capadatos.csproj.CoreCompileInputs.cache
+C:\Users\braya\OneDrive\Escritorio\Nueva carpeta\Solution1\Capadatos\obj\Debug\Capadatos.dll
+C:\Users\braya\OneDrive\Escritorio\Nueva carpeta\Solution1\Capadatos\obj\Debug\Capadatos.pdb
+C:\Users\brayanmf\Desktop\practicas C#\Nueva carpeta\crud+capaz - copia\Capadatos\bin\Debug\Capadatos.dll
+C:\Users\brayanmf\Desktop\practicas C#\Nueva carpeta\crud+capaz - copia\Capadatos\bin\Debug\Capadatos.pdb
+C:\Users\brayanmf\Desktop\practicas C#\Nueva carpeta\crud+capaz - copia\Capadatos\obj\Debug\Capadatos.csprojAssemblyReference.cache
+C:\Users\brayanmf\Desktop\practicas C#\Nueva carpeta\crud+capaz - copia\Capadatos\obj\Debug\Capadatos.csproj.CoreCompileInputs.cache
+C:\Users\brayanmf\Desktop\practicas C#\Nueva carpeta\crud+capaz - copia\Capadatos\obj\Debug\Capadatos.dll
+C:\Users\brayanmf\Desktop\practicas C#\Nueva carpeta\crud+capaz - copia\Capadatos\obj\Debug\Capadatos.pdb
